@@ -1,0 +1,10 @@
+Dividend Income Calculator
+
+Amount to invest: $25000
+
+Ticker	Annual Income
+----------------------------------------------------
+SPLS	$1305.97
+MSFT	$96.15
+
+

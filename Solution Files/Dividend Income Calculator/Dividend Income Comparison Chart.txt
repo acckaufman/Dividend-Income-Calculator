@@ -1,0 +1,9 @@
+Dividend Income Calculator
+
+Amount to invest: $10000
+
+Ticker	Annual Income
+----------------------------------------------------
+MSFT	$7500.00
+
+
